@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OyFx
+- 👋 Hi, I’m @Tek-Ish Dev
 - 👀 I’m interested in Tech
 - 🌱 I’m currently learning Frontend & Backend Development
 - 💞️ I’m looking to collaborate on anything Tech.
@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ...
 
 <!---
-OyFx/OyFx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tek-Ish Dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
